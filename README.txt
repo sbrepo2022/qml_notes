@@ -1,0 +1,1 @@
+Simple notebook application written on QML.

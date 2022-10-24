@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>FastShadow.qml</file>
+        <file>round-add-24px.svg</file>
+        <file>round-delete_forever-24px.svg</file>
+        <file>round-done-24px.svg</file>
+        <file>AlertDialog.qml</file>
+        <file>round-save-24px.svg</file>
+        <file>fonts/Montserrat-Light.ttf</file>
+        <file>fonts/Montserrat-Regular.ttf</file>
+    </qresource>
+</RCC>
